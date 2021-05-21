@@ -3,6 +3,7 @@
 <!--
 **podunn/podunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Patrick Dunn. I attend Seneca College. My favourite food is steak. I love the sun and cold drinks.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
