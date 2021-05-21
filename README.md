@@ -4,8 +4,9 @@
 **podunn/podunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Patrick Dunn - OPS435NDD
-
 Here are some ideas to get you started:
+
+Patrick Dunn - OPS435NDD
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
